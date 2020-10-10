@@ -1,0 +1,16 @@
+# How to use this ?
+# Copy this example and create a new config.yaml file in current path,
+# and configure options according to your development
+
+Database:
+    Host:
+        '127.0.0.1'
+    Port:
+        27027
+    Name:
+        'kamp_test'
+Project:
+    Host:
+        '0.0.0.0'
+    Port:
+        8888
